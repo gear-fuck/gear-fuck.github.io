@@ -7,4 +7,4 @@ tags:  范隆德
 ---
    一.关于变量
 
-![](D:\blog\blog图片)
+![](D:\blog\blog图片\1.jpg)
