@@ -17,5 +17,5 @@ tags:  范隆德
 
    ```
 
-![](../assets/img/1.jpg)
+![](../assets/img/2.png)
 
