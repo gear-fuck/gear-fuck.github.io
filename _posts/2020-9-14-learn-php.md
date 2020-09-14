@@ -7,5 +7,5 @@ tags:  范隆德
 ---
    一.关于变量
 
-![](D:\blog\blog-img\1.jpg)
-12.
+![](D:\myblog-img\1.jpg)
+12.3
