@@ -12,9 +12,10 @@ tags:  范隆德
      
      $Var2=1;  //定义同时赋值
      
-     echo $Var2;
+      echo $Var2;
      >
 
    ```
-![](D:\blog\gear-fuck.github.io\assets\img\1.jpg)
-000
+
+![](../assets/img/1.jpg)
+
